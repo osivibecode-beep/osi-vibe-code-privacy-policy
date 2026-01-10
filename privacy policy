@@ -1,0 +1,45 @@
+Privacy Policy
+Effective Date: 01/20/2026
+osivibecode ("we," "us," or "our") operates the NHL - Track My Teams mobile application (the "Service"). This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.
+1. Information Collection and Use
+We do not collect any personally identifiable information (PII) such as your name, email address, or phone number. All user-specific data is stored locally on your device.
+Data Stored Locally
+The Service uses Android DataStore Preferences and local file storage to save your settings and improve your experience. This includes:
+•
+Favorite Teams: Your selection of NHL teams to follow.
+•
+Notification Settings: Your preferences for goals, period starts/ends, and game statuses.
+•
+App Appearance: Your chosen theme (Light/Dark/System), language (12 supported locales), and UI card sizes.
+•
+Game States: Temporary snapshots of game scores used to determine when to trigger goal notifications.
+•
+Poll Logs: Technical logs of data refresh frequency stored in a local text file.
+Third-Party Services
+The Service uses third-party services that may collect information used to identify you:
+•
+Google AdMob: We display advertisements provided by Google. AdMob may collect and use your advertising ID and usage data to provide personalized ads. Google's Privacy Policy.
+•
+NHL API: The Service fetches real-time scores and standings from public NHL data sources. No personal user data is transmitted to these sources.
+2. Permissions
+To provide its features, the Service requires the following permissions:
+•
+Internet: To fetch real-time game scores and standings.
+•
+Post Notifications: To alert you about goals, puck drops, and game results.
+•
+Foreground Service: To ensure the app can process live game updates reliably while active.
+3. Data Retention and Deletion
+Since all preference data is stored locally on your device, we do not have access to it. You can delete all data collected by the Service at any time by:
+1.
+Clearing the app's cache and storage in your device settings.
+2.
+Uninstalling the application.
+4. Children's Privacy
+Our Service does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13.
+5. Changes to This Privacy Policy
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "Effective Date" at the top.
+6. Contact Us
+If you have any questions about this Privacy Policy, please contact us:
+•
+By email: osi.vibe.code@gmail.com
